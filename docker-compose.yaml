@@ -5,4 +5,4 @@ services:
         environment:
           - URL=https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip
           - FILENAME=awscli-exe-linux-x86_64.zip
-          - BUCKET=test
+          - BUCKET_PATH=test/dir
